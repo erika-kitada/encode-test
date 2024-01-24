@@ -1,0 +1,24 @@
+{
+  "name": "encode test",
+  "version": "1.0.0",
+  "description": "encode test for shift_JIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erika-kitada/encode-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erika-kitada/encode-test/issues"
+  },
+  "homepage": "https://github.com/erika-kitada/encode-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-convert-encoding": "^3.0.0",
+    "gulp-replace": "^1.1.4"
+  }
+}
